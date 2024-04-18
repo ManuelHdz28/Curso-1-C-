@@ -1,0 +1,14 @@
+C:\Users\HERNANDEZ\Desktop\curso C#\CondicionalElseIf\CondicionalElseIf\bin\Debug\net8.0\CondicionalElseIf.exe
+C:\Users\HERNANDEZ\Desktop\curso C#\CondicionalElseIf\CondicionalElseIf\bin\Debug\net8.0\CondicionalElseIf.deps.json
+C:\Users\HERNANDEZ\Desktop\curso C#\CondicionalElseIf\CondicionalElseIf\bin\Debug\net8.0\CondicionalElseIf.runtimeconfig.json
+C:\Users\HERNANDEZ\Desktop\curso C#\CondicionalElseIf\CondicionalElseIf\bin\Debug\net8.0\CondicionalElseIf.dll
+C:\Users\HERNANDEZ\Desktop\curso C#\CondicionalElseIf\CondicionalElseIf\bin\Debug\net8.0\CondicionalElseIf.pdb
+C:\Users\HERNANDEZ\Desktop\curso C#\CondicionalElseIf\CondicionalElseIf\obj\Debug\net8.0\CondicionalElseIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HERNANDEZ\Desktop\curso C#\CondicionalElseIf\CondicionalElseIf\obj\Debug\net8.0\CondicionalElseIf.AssemblyInfoInputs.cache
+C:\Users\HERNANDEZ\Desktop\curso C#\CondicionalElseIf\CondicionalElseIf\obj\Debug\net8.0\CondicionalElseIf.AssemblyInfo.cs
+C:\Users\HERNANDEZ\Desktop\curso C#\CondicionalElseIf\CondicionalElseIf\obj\Debug\net8.0\CondicionalElseIf.csproj.CoreCompileInputs.cache
+C:\Users\HERNANDEZ\Desktop\curso C#\CondicionalElseIf\CondicionalElseIf\obj\Debug\net8.0\CondicionalElseIf.dll
+C:\Users\HERNANDEZ\Desktop\curso C#\CondicionalElseIf\CondicionalElseIf\obj\Debug\net8.0\refint\CondicionalElseIf.dll
+C:\Users\HERNANDEZ\Desktop\curso C#\CondicionalElseIf\CondicionalElseIf\obj\Debug\net8.0\CondicionalElseIf.pdb
+C:\Users\HERNANDEZ\Desktop\curso C#\CondicionalElseIf\CondicionalElseIf\obj\Debug\net8.0\CondicionalElseIf.genruntimeconfig.cache
+C:\Users\HERNANDEZ\Desktop\curso C#\CondicionalElseIf\CondicionalElseIf\obj\Debug\net8.0\ref\CondicionalElseIf.dll
