@@ -1,0 +1,14 @@
+C:\Users\HERNANDEZ\Desktop\curso C#\Ejercicio2ConvertirTemperatura\Ejercicio2ConvertirTemperatura\obj\Debug\net8.0\Ejercicio2ConvertirTemperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HERNANDEZ\Desktop\curso C#\Ejercicio2ConvertirTemperatura\Ejercicio2ConvertirTemperatura\obj\Debug\net8.0\Ejercicio2ConvertirTemperatura.AssemblyInfoInputs.cache
+C:\Users\HERNANDEZ\Desktop\curso C#\Ejercicio2ConvertirTemperatura\Ejercicio2ConvertirTemperatura\obj\Debug\net8.0\Ejercicio2ConvertirTemperatura.AssemblyInfo.cs
+C:\Users\HERNANDEZ\Desktop\curso C#\Ejercicio2ConvertirTemperatura\Ejercicio2ConvertirTemperatura\obj\Debug\net8.0\Ejercicio2ConvertirTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\HERNANDEZ\Desktop\curso C#\Ejercicio2ConvertirTemperatura\Ejercicio2ConvertirTemperatura\bin\Debug\net8.0\Ejercicio2ConvertirTemperatura.exe
+C:\Users\HERNANDEZ\Desktop\curso C#\Ejercicio2ConvertirTemperatura\Ejercicio2ConvertirTemperatura\bin\Debug\net8.0\Ejercicio2ConvertirTemperatura.deps.json
+C:\Users\HERNANDEZ\Desktop\curso C#\Ejercicio2ConvertirTemperatura\Ejercicio2ConvertirTemperatura\bin\Debug\net8.0\Ejercicio2ConvertirTemperatura.runtimeconfig.json
+C:\Users\HERNANDEZ\Desktop\curso C#\Ejercicio2ConvertirTemperatura\Ejercicio2ConvertirTemperatura\bin\Debug\net8.0\Ejercicio2ConvertirTemperatura.dll
+C:\Users\HERNANDEZ\Desktop\curso C#\Ejercicio2ConvertirTemperatura\Ejercicio2ConvertirTemperatura\bin\Debug\net8.0\Ejercicio2ConvertirTemperatura.pdb
+C:\Users\HERNANDEZ\Desktop\curso C#\Ejercicio2ConvertirTemperatura\Ejercicio2ConvertirTemperatura\obj\Debug\net8.0\Ejercicio2ConvertirTemperatura.dll
+C:\Users\HERNANDEZ\Desktop\curso C#\Ejercicio2ConvertirTemperatura\Ejercicio2ConvertirTemperatura\obj\Debug\net8.0\refint\Ejercicio2ConvertirTemperatura.dll
+C:\Users\HERNANDEZ\Desktop\curso C#\Ejercicio2ConvertirTemperatura\Ejercicio2ConvertirTemperatura\obj\Debug\net8.0\Ejercicio2ConvertirTemperatura.pdb
+C:\Users\HERNANDEZ\Desktop\curso C#\Ejercicio2ConvertirTemperatura\Ejercicio2ConvertirTemperatura\obj\Debug\net8.0\Ejercicio2ConvertirTemperatura.genruntimeconfig.cache
+C:\Users\HERNANDEZ\Desktop\curso C#\Ejercicio2ConvertirTemperatura\Ejercicio2ConvertirTemperatura\obj\Debug\net8.0\ref\Ejercicio2ConvertirTemperatura.dll

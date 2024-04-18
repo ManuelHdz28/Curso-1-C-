@@ -1,0 +1,14 @@
+C:\Users\HERNANDEZ\Desktop\curso C#\Ejercicio1PesoMasaCorporal\Ejercicio1PesoMasaCorporal\obj\Debug\net8.0\Ejercicio1PesoMasaCorporal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HERNANDEZ\Desktop\curso C#\Ejercicio1PesoMasaCorporal\Ejercicio1PesoMasaCorporal\obj\Debug\net8.0\Ejercicio1PesoMasaCorporal.AssemblyInfoInputs.cache
+C:\Users\HERNANDEZ\Desktop\curso C#\Ejercicio1PesoMasaCorporal\Ejercicio1PesoMasaCorporal\obj\Debug\net8.0\Ejercicio1PesoMasaCorporal.AssemblyInfo.cs
+C:\Users\HERNANDEZ\Desktop\curso C#\Ejercicio1PesoMasaCorporal\Ejercicio1PesoMasaCorporal\obj\Debug\net8.0\Ejercicio1PesoMasaCorporal.csproj.CoreCompileInputs.cache
+C:\Users\HERNANDEZ\Desktop\curso C#\Ejercicio1PesoMasaCorporal\Ejercicio1PesoMasaCorporal\bin\Debug\net8.0\Ejercicio1PesoMasaCorporal.exe
+C:\Users\HERNANDEZ\Desktop\curso C#\Ejercicio1PesoMasaCorporal\Ejercicio1PesoMasaCorporal\bin\Debug\net8.0\Ejercicio1PesoMasaCorporal.deps.json
+C:\Users\HERNANDEZ\Desktop\curso C#\Ejercicio1PesoMasaCorporal\Ejercicio1PesoMasaCorporal\bin\Debug\net8.0\Ejercicio1PesoMasaCorporal.runtimeconfig.json
+C:\Users\HERNANDEZ\Desktop\curso C#\Ejercicio1PesoMasaCorporal\Ejercicio1PesoMasaCorporal\bin\Debug\net8.0\Ejercicio1PesoMasaCorporal.dll
+C:\Users\HERNANDEZ\Desktop\curso C#\Ejercicio1PesoMasaCorporal\Ejercicio1PesoMasaCorporal\bin\Debug\net8.0\Ejercicio1PesoMasaCorporal.pdb
+C:\Users\HERNANDEZ\Desktop\curso C#\Ejercicio1PesoMasaCorporal\Ejercicio1PesoMasaCorporal\obj\Debug\net8.0\Ejercicio1PesoMasaCorporal.dll
+C:\Users\HERNANDEZ\Desktop\curso C#\Ejercicio1PesoMasaCorporal\Ejercicio1PesoMasaCorporal\obj\Debug\net8.0\refint\Ejercicio1PesoMasaCorporal.dll
+C:\Users\HERNANDEZ\Desktop\curso C#\Ejercicio1PesoMasaCorporal\Ejercicio1PesoMasaCorporal\obj\Debug\net8.0\Ejercicio1PesoMasaCorporal.pdb
+C:\Users\HERNANDEZ\Desktop\curso C#\Ejercicio1PesoMasaCorporal\Ejercicio1PesoMasaCorporal\obj\Debug\net8.0\Ejercicio1PesoMasaCorporal.genruntimeconfig.cache
+C:\Users\HERNANDEZ\Desktop\curso C#\Ejercicio1PesoMasaCorporal\Ejercicio1PesoMasaCorporal\obj\Debug\net8.0\ref\Ejercicio1PesoMasaCorporal.dll
