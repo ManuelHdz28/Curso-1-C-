@@ -1,0 +1,14 @@
+C:\Users\HERNANDEZ\Desktop\curso C#\DatosBooleanos\DatosBooleanos\bin\Debug\net8.0\DatosBooleanos.exe
+C:\Users\HERNANDEZ\Desktop\curso C#\DatosBooleanos\DatosBooleanos\bin\Debug\net8.0\DatosBooleanos.deps.json
+C:\Users\HERNANDEZ\Desktop\curso C#\DatosBooleanos\DatosBooleanos\bin\Debug\net8.0\DatosBooleanos.runtimeconfig.json
+C:\Users\HERNANDEZ\Desktop\curso C#\DatosBooleanos\DatosBooleanos\bin\Debug\net8.0\DatosBooleanos.dll
+C:\Users\HERNANDEZ\Desktop\curso C#\DatosBooleanos\DatosBooleanos\bin\Debug\net8.0\DatosBooleanos.pdb
+C:\Users\HERNANDEZ\Desktop\curso C#\DatosBooleanos\DatosBooleanos\obj\Debug\net8.0\DatosBooleanos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HERNANDEZ\Desktop\curso C#\DatosBooleanos\DatosBooleanos\obj\Debug\net8.0\DatosBooleanos.AssemblyInfoInputs.cache
+C:\Users\HERNANDEZ\Desktop\curso C#\DatosBooleanos\DatosBooleanos\obj\Debug\net8.0\DatosBooleanos.AssemblyInfo.cs
+C:\Users\HERNANDEZ\Desktop\curso C#\DatosBooleanos\DatosBooleanos\obj\Debug\net8.0\DatosBooleanos.csproj.CoreCompileInputs.cache
+C:\Users\HERNANDEZ\Desktop\curso C#\DatosBooleanos\DatosBooleanos\obj\Debug\net8.0\DatosBooleanos.dll
+C:\Users\HERNANDEZ\Desktop\curso C#\DatosBooleanos\DatosBooleanos\obj\Debug\net8.0\refint\DatosBooleanos.dll
+C:\Users\HERNANDEZ\Desktop\curso C#\DatosBooleanos\DatosBooleanos\obj\Debug\net8.0\DatosBooleanos.pdb
+C:\Users\HERNANDEZ\Desktop\curso C#\DatosBooleanos\DatosBooleanos\obj\Debug\net8.0\DatosBooleanos.genruntimeconfig.cache
+C:\Users\HERNANDEZ\Desktop\curso C#\DatosBooleanos\DatosBooleanos\obj\Debug\net8.0\ref\DatosBooleanos.dll
