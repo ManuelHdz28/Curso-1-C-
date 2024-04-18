@@ -1,0 +1,14 @@
+C:\Users\HERNANDEZ\Desktop\curso C#\Ejercicio6FacturadeCompras\Ejercicio6FacturadeCompras\bin\Debug\net8.0\Ejercicio6FacturadeCompras.exe
+C:\Users\HERNANDEZ\Desktop\curso C#\Ejercicio6FacturadeCompras\Ejercicio6FacturadeCompras\bin\Debug\net8.0\Ejercicio6FacturadeCompras.deps.json
+C:\Users\HERNANDEZ\Desktop\curso C#\Ejercicio6FacturadeCompras\Ejercicio6FacturadeCompras\bin\Debug\net8.0\Ejercicio6FacturadeCompras.runtimeconfig.json
+C:\Users\HERNANDEZ\Desktop\curso C#\Ejercicio6FacturadeCompras\Ejercicio6FacturadeCompras\bin\Debug\net8.0\Ejercicio6FacturadeCompras.dll
+C:\Users\HERNANDEZ\Desktop\curso C#\Ejercicio6FacturadeCompras\Ejercicio6FacturadeCompras\bin\Debug\net8.0\Ejercicio6FacturadeCompras.pdb
+C:\Users\HERNANDEZ\Desktop\curso C#\Ejercicio6FacturadeCompras\Ejercicio6FacturadeCompras\obj\Debug\net8.0\Ejercicio6FacturadeCompras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HERNANDEZ\Desktop\curso C#\Ejercicio6FacturadeCompras\Ejercicio6FacturadeCompras\obj\Debug\net8.0\Ejercicio6FacturadeCompras.AssemblyInfoInputs.cache
+C:\Users\HERNANDEZ\Desktop\curso C#\Ejercicio6FacturadeCompras\Ejercicio6FacturadeCompras\obj\Debug\net8.0\Ejercicio6FacturadeCompras.AssemblyInfo.cs
+C:\Users\HERNANDEZ\Desktop\curso C#\Ejercicio6FacturadeCompras\Ejercicio6FacturadeCompras\obj\Debug\net8.0\Ejercicio6FacturadeCompras.csproj.CoreCompileInputs.cache
+C:\Users\HERNANDEZ\Desktop\curso C#\Ejercicio6FacturadeCompras\Ejercicio6FacturadeCompras\obj\Debug\net8.0\Ejercicio6FacturadeCompras.dll
+C:\Users\HERNANDEZ\Desktop\curso C#\Ejercicio6FacturadeCompras\Ejercicio6FacturadeCompras\obj\Debug\net8.0\refint\Ejercicio6FacturadeCompras.dll
+C:\Users\HERNANDEZ\Desktop\curso C#\Ejercicio6FacturadeCompras\Ejercicio6FacturadeCompras\obj\Debug\net8.0\Ejercicio6FacturadeCompras.pdb
+C:\Users\HERNANDEZ\Desktop\curso C#\Ejercicio6FacturadeCompras\Ejercicio6FacturadeCompras\obj\Debug\net8.0\Ejercicio6FacturadeCompras.genruntimeconfig.cache
+C:\Users\HERNANDEZ\Desktop\curso C#\Ejercicio6FacturadeCompras\Ejercicio6FacturadeCompras\obj\Debug\net8.0\ref\Ejercicio6FacturadeCompras.dll
