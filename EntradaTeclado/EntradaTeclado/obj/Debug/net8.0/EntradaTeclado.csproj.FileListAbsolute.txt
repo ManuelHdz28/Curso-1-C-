@@ -1,0 +1,14 @@
+C:\Users\HERNANDEZ\Desktop\curso C#\EntradaTeclado\EntradaTeclado\bin\Debug\net8.0\EntradaTeclado.exe
+C:\Users\HERNANDEZ\Desktop\curso C#\EntradaTeclado\EntradaTeclado\bin\Debug\net8.0\EntradaTeclado.deps.json
+C:\Users\HERNANDEZ\Desktop\curso C#\EntradaTeclado\EntradaTeclado\bin\Debug\net8.0\EntradaTeclado.runtimeconfig.json
+C:\Users\HERNANDEZ\Desktop\curso C#\EntradaTeclado\EntradaTeclado\bin\Debug\net8.0\EntradaTeclado.dll
+C:\Users\HERNANDEZ\Desktop\curso C#\EntradaTeclado\EntradaTeclado\bin\Debug\net8.0\EntradaTeclado.pdb
+C:\Users\HERNANDEZ\Desktop\curso C#\EntradaTeclado\EntradaTeclado\obj\Debug\net8.0\EntradaTeclado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HERNANDEZ\Desktop\curso C#\EntradaTeclado\EntradaTeclado\obj\Debug\net8.0\EntradaTeclado.AssemblyInfoInputs.cache
+C:\Users\HERNANDEZ\Desktop\curso C#\EntradaTeclado\EntradaTeclado\obj\Debug\net8.0\EntradaTeclado.AssemblyInfo.cs
+C:\Users\HERNANDEZ\Desktop\curso C#\EntradaTeclado\EntradaTeclado\obj\Debug\net8.0\EntradaTeclado.csproj.CoreCompileInputs.cache
+C:\Users\HERNANDEZ\Desktop\curso C#\EntradaTeclado\EntradaTeclado\obj\Debug\net8.0\EntradaTeclado.dll
+C:\Users\HERNANDEZ\Desktop\curso C#\EntradaTeclado\EntradaTeclado\obj\Debug\net8.0\refint\EntradaTeclado.dll
+C:\Users\HERNANDEZ\Desktop\curso C#\EntradaTeclado\EntradaTeclado\obj\Debug\net8.0\EntradaTeclado.pdb
+C:\Users\HERNANDEZ\Desktop\curso C#\EntradaTeclado\EntradaTeclado\obj\Debug\net8.0\EntradaTeclado.genruntimeconfig.cache
+C:\Users\HERNANDEZ\Desktop\curso C#\EntradaTeclado\EntradaTeclado\obj\Debug\net8.0\ref\EntradaTeclado.dll
