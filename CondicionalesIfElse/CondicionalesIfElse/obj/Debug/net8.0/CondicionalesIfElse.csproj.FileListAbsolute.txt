@@ -1,0 +1,14 @@
+C:\Users\HERNANDEZ\Desktop\curso C#\CondicionalesIfElse\CondicionalesIfElse\bin\Debug\net8.0\CondicionalesIfElse.exe
+C:\Users\HERNANDEZ\Desktop\curso C#\CondicionalesIfElse\CondicionalesIfElse\bin\Debug\net8.0\CondicionalesIfElse.deps.json
+C:\Users\HERNANDEZ\Desktop\curso C#\CondicionalesIfElse\CondicionalesIfElse\bin\Debug\net8.0\CondicionalesIfElse.runtimeconfig.json
+C:\Users\HERNANDEZ\Desktop\curso C#\CondicionalesIfElse\CondicionalesIfElse\bin\Debug\net8.0\CondicionalesIfElse.dll
+C:\Users\HERNANDEZ\Desktop\curso C#\CondicionalesIfElse\CondicionalesIfElse\bin\Debug\net8.0\CondicionalesIfElse.pdb
+C:\Users\HERNANDEZ\Desktop\curso C#\CondicionalesIfElse\CondicionalesIfElse\obj\Debug\net8.0\CondicionalesIfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HERNANDEZ\Desktop\curso C#\CondicionalesIfElse\CondicionalesIfElse\obj\Debug\net8.0\CondicionalesIfElse.AssemblyInfoInputs.cache
+C:\Users\HERNANDEZ\Desktop\curso C#\CondicionalesIfElse\CondicionalesIfElse\obj\Debug\net8.0\CondicionalesIfElse.AssemblyInfo.cs
+C:\Users\HERNANDEZ\Desktop\curso C#\CondicionalesIfElse\CondicionalesIfElse\obj\Debug\net8.0\CondicionalesIfElse.csproj.CoreCompileInputs.cache
+C:\Users\HERNANDEZ\Desktop\curso C#\CondicionalesIfElse\CondicionalesIfElse\obj\Debug\net8.0\CondicionalesIfElse.dll
+C:\Users\HERNANDEZ\Desktop\curso C#\CondicionalesIfElse\CondicionalesIfElse\obj\Debug\net8.0\refint\CondicionalesIfElse.dll
+C:\Users\HERNANDEZ\Desktop\curso C#\CondicionalesIfElse\CondicionalesIfElse\obj\Debug\net8.0\CondicionalesIfElse.pdb
+C:\Users\HERNANDEZ\Desktop\curso C#\CondicionalesIfElse\CondicionalesIfElse\obj\Debug\net8.0\CondicionalesIfElse.genruntimeconfig.cache
+C:\Users\HERNANDEZ\Desktop\curso C#\CondicionalesIfElse\CondicionalesIfElse\obj\Debug\net8.0\ref\CondicionalesIfElse.dll
