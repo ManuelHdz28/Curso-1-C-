@@ -1,0 +1,14 @@
+C:\Users\HERNANDEZ\Desktop\curso C#\Ejercicio4CambiodeVariables\Ejercicio4CambiodeVariables\bin\Debug\net8.0\Ejercicio4CambiodeVariables.exe
+C:\Users\HERNANDEZ\Desktop\curso C#\Ejercicio4CambiodeVariables\Ejercicio4CambiodeVariables\bin\Debug\net8.0\Ejercicio4CambiodeVariables.deps.json
+C:\Users\HERNANDEZ\Desktop\curso C#\Ejercicio4CambiodeVariables\Ejercicio4CambiodeVariables\bin\Debug\net8.0\Ejercicio4CambiodeVariables.runtimeconfig.json
+C:\Users\HERNANDEZ\Desktop\curso C#\Ejercicio4CambiodeVariables\Ejercicio4CambiodeVariables\bin\Debug\net8.0\Ejercicio4CambiodeVariables.dll
+C:\Users\HERNANDEZ\Desktop\curso C#\Ejercicio4CambiodeVariables\Ejercicio4CambiodeVariables\bin\Debug\net8.0\Ejercicio4CambiodeVariables.pdb
+C:\Users\HERNANDEZ\Desktop\curso C#\Ejercicio4CambiodeVariables\Ejercicio4CambiodeVariables\obj\Debug\net8.0\Ejercicio4CambiodeVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HERNANDEZ\Desktop\curso C#\Ejercicio4CambiodeVariables\Ejercicio4CambiodeVariables\obj\Debug\net8.0\Ejercicio4CambiodeVariables.AssemblyInfoInputs.cache
+C:\Users\HERNANDEZ\Desktop\curso C#\Ejercicio4CambiodeVariables\Ejercicio4CambiodeVariables\obj\Debug\net8.0\Ejercicio4CambiodeVariables.AssemblyInfo.cs
+C:\Users\HERNANDEZ\Desktop\curso C#\Ejercicio4CambiodeVariables\Ejercicio4CambiodeVariables\obj\Debug\net8.0\Ejercicio4CambiodeVariables.csproj.CoreCompileInputs.cache
+C:\Users\HERNANDEZ\Desktop\curso C#\Ejercicio4CambiodeVariables\Ejercicio4CambiodeVariables\obj\Debug\net8.0\Ejercicio4CambiodeVariables.dll
+C:\Users\HERNANDEZ\Desktop\curso C#\Ejercicio4CambiodeVariables\Ejercicio4CambiodeVariables\obj\Debug\net8.0\refint\Ejercicio4CambiodeVariables.dll
+C:\Users\HERNANDEZ\Desktop\curso C#\Ejercicio4CambiodeVariables\Ejercicio4CambiodeVariables\obj\Debug\net8.0\Ejercicio4CambiodeVariables.pdb
+C:\Users\HERNANDEZ\Desktop\curso C#\Ejercicio4CambiodeVariables\Ejercicio4CambiodeVariables\obj\Debug\net8.0\Ejercicio4CambiodeVariables.genruntimeconfig.cache
+C:\Users\HERNANDEZ\Desktop\curso C#\Ejercicio4CambiodeVariables\Ejercicio4CambiodeVariables\obj\Debug\net8.0\ref\Ejercicio4CambiodeVariables.dll
