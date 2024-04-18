@@ -1,0 +1,14 @@
+C:\Users\HERNANDEZ\Desktop\curso C#\MostrarDatos\MostrarDatos\bin\Debug\net8.0\MostrarDatos.exe
+C:\Users\HERNANDEZ\Desktop\curso C#\MostrarDatos\MostrarDatos\bin\Debug\net8.0\MostrarDatos.deps.json
+C:\Users\HERNANDEZ\Desktop\curso C#\MostrarDatos\MostrarDatos\bin\Debug\net8.0\MostrarDatos.runtimeconfig.json
+C:\Users\HERNANDEZ\Desktop\curso C#\MostrarDatos\MostrarDatos\bin\Debug\net8.0\MostrarDatos.dll
+C:\Users\HERNANDEZ\Desktop\curso C#\MostrarDatos\MostrarDatos\bin\Debug\net8.0\MostrarDatos.pdb
+C:\Users\HERNANDEZ\Desktop\curso C#\MostrarDatos\MostrarDatos\obj\Debug\net8.0\MostrarDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HERNANDEZ\Desktop\curso C#\MostrarDatos\MostrarDatos\obj\Debug\net8.0\MostrarDatos.AssemblyInfoInputs.cache
+C:\Users\HERNANDEZ\Desktop\curso C#\MostrarDatos\MostrarDatos\obj\Debug\net8.0\MostrarDatos.AssemblyInfo.cs
+C:\Users\HERNANDEZ\Desktop\curso C#\MostrarDatos\MostrarDatos\obj\Debug\net8.0\MostrarDatos.csproj.CoreCompileInputs.cache
+C:\Users\HERNANDEZ\Desktop\curso C#\MostrarDatos\MostrarDatos\obj\Debug\net8.0\MostrarDatos.dll
+C:\Users\HERNANDEZ\Desktop\curso C#\MostrarDatos\MostrarDatos\obj\Debug\net8.0\refint\MostrarDatos.dll
+C:\Users\HERNANDEZ\Desktop\curso C#\MostrarDatos\MostrarDatos\obj\Debug\net8.0\MostrarDatos.pdb
+C:\Users\HERNANDEZ\Desktop\curso C#\MostrarDatos\MostrarDatos\obj\Debug\net8.0\MostrarDatos.genruntimeconfig.cache
+C:\Users\HERNANDEZ\Desktop\curso C#\MostrarDatos\MostrarDatos\obj\Debug\net8.0\ref\MostrarDatos.dll
