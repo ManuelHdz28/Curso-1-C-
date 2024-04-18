@@ -1,0 +1,14 @@
+C:\Users\HERNANDEZ\Desktop\curso C#\Ejercicio5CalcularEdad\Ejercicio5CalcularEdad\bin\Debug\net8.0\Ejercicio5CalcularEdad.exe
+C:\Users\HERNANDEZ\Desktop\curso C#\Ejercicio5CalcularEdad\Ejercicio5CalcularEdad\bin\Debug\net8.0\Ejercicio5CalcularEdad.deps.json
+C:\Users\HERNANDEZ\Desktop\curso C#\Ejercicio5CalcularEdad\Ejercicio5CalcularEdad\bin\Debug\net8.0\Ejercicio5CalcularEdad.runtimeconfig.json
+C:\Users\HERNANDEZ\Desktop\curso C#\Ejercicio5CalcularEdad\Ejercicio5CalcularEdad\bin\Debug\net8.0\Ejercicio5CalcularEdad.dll
+C:\Users\HERNANDEZ\Desktop\curso C#\Ejercicio5CalcularEdad\Ejercicio5CalcularEdad\bin\Debug\net8.0\Ejercicio5CalcularEdad.pdb
+C:\Users\HERNANDEZ\Desktop\curso C#\Ejercicio5CalcularEdad\Ejercicio5CalcularEdad\obj\Debug\net8.0\Ejercicio5CalcularEdad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HERNANDEZ\Desktop\curso C#\Ejercicio5CalcularEdad\Ejercicio5CalcularEdad\obj\Debug\net8.0\Ejercicio5CalcularEdad.AssemblyInfoInputs.cache
+C:\Users\HERNANDEZ\Desktop\curso C#\Ejercicio5CalcularEdad\Ejercicio5CalcularEdad\obj\Debug\net8.0\Ejercicio5CalcularEdad.AssemblyInfo.cs
+C:\Users\HERNANDEZ\Desktop\curso C#\Ejercicio5CalcularEdad\Ejercicio5CalcularEdad\obj\Debug\net8.0\Ejercicio5CalcularEdad.csproj.CoreCompileInputs.cache
+C:\Users\HERNANDEZ\Desktop\curso C#\Ejercicio5CalcularEdad\Ejercicio5CalcularEdad\obj\Debug\net8.0\Ejercicio5CalcularEdad.dll
+C:\Users\HERNANDEZ\Desktop\curso C#\Ejercicio5CalcularEdad\Ejercicio5CalcularEdad\obj\Debug\net8.0\refint\Ejercicio5CalcularEdad.dll
+C:\Users\HERNANDEZ\Desktop\curso C#\Ejercicio5CalcularEdad\Ejercicio5CalcularEdad\obj\Debug\net8.0\Ejercicio5CalcularEdad.pdb
+C:\Users\HERNANDEZ\Desktop\curso C#\Ejercicio5CalcularEdad\Ejercicio5CalcularEdad\obj\Debug\net8.0\Ejercicio5CalcularEdad.genruntimeconfig.cache
+C:\Users\HERNANDEZ\Desktop\curso C#\Ejercicio5CalcularEdad\Ejercicio5CalcularEdad\obj\Debug\net8.0\ref\Ejercicio5CalcularEdad.dll
